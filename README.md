@@ -1,5 +1,7 @@
 # snd_hda_macbookpro
 
+WORKING ON kernel <= 5.4
+
 Compiling and installing driver:
 -------------
 
